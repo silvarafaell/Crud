@@ -4,3 +4,4 @@
 - MVC
 - .NET 5
 - Azure
+- Swagger
